@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AkiAnime",
+    "version": "1.6",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "ChopDream",
+    "file": "rules/akianime.json",
+    "site": "https://www.akianime.cc/",
+    "status": "verified-playable"
+  },
+  {
+    "name": "MX动漫",
+    "version": "2.5",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "ChopDream",
+    "file": "rules/mxdm.json",
+    "site": "https://www.dcc3.com/",
+    "status": "verified-hls"
+  },
+  {
+    "name": "咕咕番",
+    "version": "1.5",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "ChopDream",
+    "file": "rules/gugu3.json",
+    "site": "https://www.gugu3.com/",
+    "status": "search-ok-playback-needs-client"
+  }
+]

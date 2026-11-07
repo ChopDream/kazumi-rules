@@ -1,0 +1,19 @@
+{
+  "api": "5",
+  "type": "anime",
+  "name": "咕咕番",
+  "version": "1.5",
+  "muliSources": true,
+  "useWebview": true,
+  "useNativePlayer": true,
+  "useLegacyParser": false,
+  "userAgent": "",
+  "adBlocker": true,
+  "baseURL": "https:\/\/www.gugu3.com\/",
+  "searchURL": "https:\/\/www.gugu3.com\/index.php\/vod\/search.html?wd=@keyword",
+  "searchList": "\/\/div[@class='public-list-box search-box flex rel']",
+  "searchName": "\/\/div[@class='thumb-txt cor4 hide']",
+  "searchResult": "\/\/a[@class='public-list-exp']",
+  "chapterRoads": "\/\/ul[@class='anthology-list-play size']",
+  "chapterResult": "\/\/li\/a"
+}
